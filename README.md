@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Growth Mindest 
 
 You can use the [editor on GitHub](https://github.com/qutaiba92/Mindset/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
