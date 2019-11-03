@@ -1,11 +1,11 @@
 # Growth Mindest Definition
-A _**growth mindset** means that you thrive on challenge, and don’t see failure as a way to describe yourself but as a springboard for growth and developing your abilities. Your intelligence and talents are all susceptible to growth.
+A **growth mindset** means that you thrive on challenge, and don’t see failure as a way to describe yourself but as a springboard for growth and developing your abilities. Your intelligence and talents are all susceptible to growth.
 
 ## Growth Mindset steps
  1. Work harder.
  2. Find outside help.
  3. Replace the world “failing” with “learning.
- 4. Remmber always _**no pain no gain**.
+ 4. Remmber always _no pain no gain**.
 
 ![image](https://cbmtraining.co.za/wp-content/uploads/2019/06/growth-vs-fixed-mindset.png)
 
