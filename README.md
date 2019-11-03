@@ -5,7 +5,7 @@ A **growth mindset** means that you thrive on challenge, and don’t see failure
  1. Work harder.
  2. Find outside help.
  3. Replace the world “failing” with “learning.
- 4. Remmber always _no pain no gain**.
+ 4. Remmber always ***no pain no gain***.
 
 ![image](https://cbmtraining.co.za/wp-content/uploads/2019/06/growth-vs-fixed-mindset.png)
 
