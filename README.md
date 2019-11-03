@@ -7,7 +7,7 @@ A **growth mindset** believes that one’s fundamental abilities can be develope
 3- try more and more
 4-remmber always no pain no gain
 
-<img src="https://cbmtraining.co.za/wp-content/uploads/2019/06/growth-vs-fixed-mindset.png">
+![image](https://cbmtraining.co.za/wp-content/uploads/2019/06/growth-vs-fixed-mindset.png)
 
 
 ```
