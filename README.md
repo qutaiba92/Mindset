@@ -11,5 +11,10 @@ A **growth mindset** means that you thrive on challenge, and don’t see failure
 
 
 For more you can go to [Creat Golable Mindset](https://onlinelibrary.wiley.com/doi/abs/10.1002/1520-6874(200003/04)42:2%3C187::AID-TIE4%3E3.0.CO;2-7)
-
+### profile information
+- Name: Qutaiba Abdullah Hanaktah
+- Age : 27 
+- Email : hanaqtahq@yahoo.com
+- Phone: 0772467015
+- Adress: amman,jordan
 
